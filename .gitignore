@@ -1,4 +1,4 @@
-*.db
 *.DB
+*.db
+*.sql
 .ipynb_checkpoints/
-__pycache__/
