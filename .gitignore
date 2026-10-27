@@ -1,0 +1,4 @@
+*.db
+*.DB
+.ipynb_checkpoints/
+__pycache__/
